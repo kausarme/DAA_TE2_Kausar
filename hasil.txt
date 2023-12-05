@@ -1,0 +1,26 @@
+Greedy           besar_1.txt   cost = 1041       memory = (160, 328296) 7.999181747436523 ms
+Branch and Bound besar_1.txt cost = 984        memory = (264, 361680) 155690.92178344727 ms
+
+Greedy           besar_2.txt   cost = 1101       memory = (224, 328296) 6.966829299926758 ms
+Branch and Bound besar_2.txt cost = 882        memory = (264, 361680) 22392.94123649597 ms
+
+Greedy           besar_3.txt   cost = 1537       memory = (224, 328392) 8.974313735961914 ms
+Branch and Bound besar_3.txt cost = 1360       memory = (264, 361680) 47864.30478096008 ms
+
+Greedy           kecil_1.txt   cost = 398        memory = (96, 4168) 0.0        ms
+Branch and Bound kecil_1.txt cost = 398        memory = (184, 4160) 159.25049781799316 ms
+
+Greedy           kecil_2.txt   cost = 413        memory = (96, 4168) 0.0        ms
+Branch and Bound kecil_2.txt cost = 364        memory = (184, 4160) 109.60698127746582 ms
+
+Greedy           kecil_3.txt   cost = 394        memory = (96, 4168) 1.0004043579101562 ms
+Branch and Bound kecil_3.txt cost = 347        memory = (192, 4168) 76.59196853637695 ms
+
+Greedy           sedang_1.txt  cost = 1286       memory = (160, 21480) 0.0        ms
+Branch and Bound sedang_1.txt cost = 1225       memory = (232, 25776) 4718.9671993255615 ms
+
+Greedy           sedang_2.txt  cost = 767        memory = (160, 21064) 0.9996891021728516 ms
+Branch and Bound sedang_2.txt cost = 609        memory = (224, 25704) 18169.838190078735 ms
+
+Greedy           sedang_3.txt  cost = 861        memory = (160, 21064) 0.0        ms
+Branch and Bound sedang_3.txt cost = 795        memory = (232, 25776) 6882.053852081299 ms
